@@ -4,6 +4,7 @@ console.log('index.js ACTIVATED!');
 let source = 'bbc-news';
 let apikey = 'cdd394ad60af4d22b57a3c34bea5f021';
 
+
 //Grab the news container
 let newsAccordion = document.getElementById('newsAccordion');
 console.log(newsAccordion);
